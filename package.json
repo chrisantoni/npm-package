@@ -1,0 +1,19 @@
+{
+  "name": "easiermath",
+  "version": "0.2.5",
+  "description": "simple add and subtract operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisantoni/npm-package.git"
+  },
+  "author": "toni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisantoni/npm-package/issues"
+  },
+  "homepage": "https://github.com/chrisantoni/npm-package#readme"
+}
